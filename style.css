@@ -1,6 +1,6 @@
-body {
-    color: powderblue;
+body{
+    background-color: teal;
 }
-p{
-    color: pink;
+h1,h2,h3{
+    color: #fff;
 }
